@@ -2,4 +2,4 @@
 
 	- feature-A
 	- fix-b
-	- feature-B
+	- faeture-B
